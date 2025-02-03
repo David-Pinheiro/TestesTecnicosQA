@@ -1,6 +1,6 @@
 ## Testes Técnicos - Processo seletivo para a Formação em Análise de Testes (QA)
 
-Este repositório contém as resoluções do desafio técnico do processo seletivo para estágio na área de Qualidade de Software.
+Este repositório contém as resoluções do desafio técnico do processo seletivo para formação na área de Qualidade de Software.
 
 # 📂 Estrutura do Repositório
 
