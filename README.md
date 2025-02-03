@@ -2,7 +2,7 @@
 
 Este repositório contém as resoluções do desafio técnico do processo seletivo para formação na área de Qualidade de Software.
 
-# 📂 Estrutura do Repositório
+## 📂 Estrutura do Repositório
 
 TestesTecnicosQA
 
@@ -18,13 +18,13 @@ TestesTecnicosQA
 
 |   ├── teste3.js       # Código do terceiro teste em JavaScript
 
-# 📝 Conteúdo do Repositório
+## 📝 Conteúdo do Repositório
 
 📄 resolucoes.pdf: Contém a resposta às perguntas sobre testes de software, os códigos dos desafios em JavaScript, as saídas do CLI e as referências da redação.
 
 📜 testes em JavaScript: Três arquivos que implementam os desafios propostos, permitindo execução via CLI.
 
-# 📌 Observações
+## 📌 Observações
 
 🔹 A redação solicitada foi enviada por e-mail, e as referências utilizadas estão disponíveis no arquivo resolucoes.pdf.
 🔹 Caso haja qualquer dúvida ou necessidade de esclarecimento, estou à disposição.
