@@ -6,17 +6,17 @@ Este repositório contém as resoluções do desafio técnico do processo seleti
 
 TestesTecnicosQA
 
-docs
+|── docs
 
-└── resolucoes.pdf  # Documento com as respostas das questões, códigos e saídas do CLI
+|   └── resolucoes.pdf  # Documento com as respostas das questões, códigos e saídas do CLI
 
-src
+|── src
 
-├── teste1.js       # Código do primeiro teste em JavaScript
+|   ├── teste1.js       # Código do primeiro teste em JavaScript
 
-├── teste2.js       # Código do segundo teste em JavaScript
+|   ├── teste2.js       # Código do segundo teste em JavaScript
 
-├── teste3.js       # Código do terceiro teste em JavaScript
+|   ├── teste3.js       # Código do terceiro teste em JavaScript
 
 # 📝 Conteúdo do Repositório
 
