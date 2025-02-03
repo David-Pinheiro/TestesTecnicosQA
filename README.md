@@ -26,5 +26,5 @@ TestesTecnicosQA
 
 ## 📌 Observações
 
-🔹 A redação solicitada foi enviada por e-mail, e as referências utilizadas estão disponíveis no arquivo resolucoes.pdf.
+🔹 A redação solicitada foi enviada por e-mail e as referências utilizadas estão disponíveis ao final do arquivo resolucoes.pdf.
 🔹 Caso haja qualquer dúvida ou necessidade de esclarecimento, estou à disposição.
