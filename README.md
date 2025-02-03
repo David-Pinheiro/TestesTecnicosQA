@@ -1,4 +1,4 @@
-## Testes Técnicos - Processo seletivo para a Formação em Análise de Testes (QA)
+# Testes Técnicos - Processo seletivo para a Formação em Análise de Testes (QA)
 
 Este repositório contém as resoluções do desafio técnico do processo seletivo para formação na área de Qualidade de Software.
 
